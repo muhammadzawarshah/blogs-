@@ -1,0 +1,36 @@
+.he1{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+}
+.he2{
+    display: flex;
+}
+.he3{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    gap: 20px;
+}
+li{
+    list-style-type: none;
+}
+.he1 ul{
+    margin-right: -200px;
+}
+.he1 input{
+    margin-right: -300px;
+    margin-top: 10px;
+    height: 20px;
+}
+.he1 button{
+    height: 35px;
+    width: 80px;
+    margin-top: 5px;
+    background-color: red;
+    color: white;
+    border: 2px solid red;
+}

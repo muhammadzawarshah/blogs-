@@ -1,0 +1,37 @@
+#topnews{
+    display: flex;
+    height: 300px;
+}
+
+#imgsrc{
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 550px;
+    height: 200px;
+}
+.i{
+    width: 50%;
+}
+.combine{
+    box-sizing: border-box;
+    box-shadow: red;
+    margin: 20px;
+    margin-left: 40px;
+    width: 50%;
+}
+p {
+    overflow: normal;
+    word-wrap: break-word;
+  }
+#shortdes{
+     font-size: medium;    
+}
+
+#Read{
+    height: 45px;
+    width: 100px;
+    margin-left: 320px;
+    background-color: red;
+    color: white;
+    border: 2px solid red;
+}

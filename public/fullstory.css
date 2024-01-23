@@ -1,0 +1,74 @@
+.fline{
+    display: flex;
+}
+#fuline{
+    margin-top: 40px;
+       height: 0px;
+       width: 950px;
+       color: black;
+}
+#seeall{
+    margin-top: 33px;
+}
+#story{
+    display: flex;
+    height: 300px;
+}
+
+#icontent{
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 550px;
+    height: 200px;
+}
+#imcontent{
+    width: 50%;
+}
+.combine{
+    box-sizing: border-box;
+    margin: 20px;
+    margin-left: 40px;
+    width: 50%;
+}
+p {
+    overflow: normal;
+    word-wrap: break-word;
+  }
+#pcontent{
+     font-size: medium;    
+}
+
+#Read{
+    height: 45px;
+    width: 100px;
+    margin-left: 320px;
+    background-color: red;
+    color: white;
+    border: 2px solid red;
+}
+#combine{
+    display: flex;
+     gap: 20px;
+}
+#combine1{
+    box-sizing: border-box;
+    
+}
+#combine h3{
+       word-wrap: break-word;
+
+}
+#combine img{
+    width: 360px;
+    height: 150px;
+}
+#maindiv{
+    display: flex;
+}
+#m1 h1 p{
+    word-wrap: break-word;
+}
+#maindiv #m1 img{
+    width: 300px;
+    height: 300px;
+}
